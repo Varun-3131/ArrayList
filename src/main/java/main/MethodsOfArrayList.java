@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class MethodsOfArrayList {
     public static void main(String[] args) {
+
         // Declare ArrayList with name "list"...
         ArrayList<Integer> list = new ArrayList<>();
         ArrayList<String> list2 = new ArrayList<>();
