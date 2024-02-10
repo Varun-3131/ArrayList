@@ -13,7 +13,6 @@ public class UserInputArrayList {
         for (int i = 0; i <= n; i++) {
             i = sc.nextInt();
             list.add(i);
-
         }
         System.out.println(list);
         sc.close();
