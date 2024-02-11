@@ -14,6 +14,7 @@ public class SortingInArrayList {
         list.add(9);
         list.add(6);
         Collections.sort(list); //To sort an ArraList, we use a Function called-->"Collections.sort(ArrayList Name)".....
+
         System.out.println(list);
 
     }
