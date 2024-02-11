@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5256cf88-1948-4fb3-88cf-d69611199969" name="Changes" comment="Created ArrayList From User Input.." />
+    <list default="true" id="5256cf88-1948-4fb3-88cf-d69611199969" name="Changes" comment="ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/MaximumInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/SortingInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/SwapNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/ReverseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ReverseArrayList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +23,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Varun-3131&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5b521bab-6a54-46e0-b023-ac6969cccb25" />
+        <option name="url" value="https://github.com/Varun-3131/ArrayListt" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -31,24 +54,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.UserInputArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Varun/JAVA/ArrayListt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MaximumInArrayList.executor": "Run",
+    "Application.SortingInArrayList.executor": "Run",
+    "Application.SwapNumber.executor": "Run",
+    "Application.UserInputArrayList.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Varun/JAVA/ArrayListt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="UserInputArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.UserInputArrayList" />
@@ -88,6 +114,10 @@
       <workItem from="1707567943874" duration="3000" />
       <workItem from="1707568151201" duration="929000" />
       <workItem from="1707569103129" duration="382000" />
+      <workItem from="1707569494015" duration="359000" />
+      <workItem from="1707570712214" duration="1275000" />
+      <workItem from="1707630154513" duration="12000" />
+      <workItem from="1707630645424" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Created ArrayList From User Input..">
       <option name="closed" value="true" />
@@ -129,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707569236206</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ArrayList">
+      <option name="closed" value="true" />
+      <created>1707569562271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707569562271</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created ArrayList From User Input.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created ArrayList From User Input.." />
+    <MESSAGE value="ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

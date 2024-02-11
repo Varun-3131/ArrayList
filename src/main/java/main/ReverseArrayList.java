@@ -14,7 +14,7 @@ public class ReverseArrayList {
         list.add(6);
         System.out.println("Original List:-" + list);
 
-        //To reverse a list..
+        //To reverse a list...
 
         System.out.print("Reversed List:-");
         for (int i = list.size() - 1; i >= 0; i--) {

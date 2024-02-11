@@ -11,6 +11,6 @@ public class CreateArrayList {
         list.add(3);
         list.add(4);
         list.add(5);
-        System.out.print(list.get(2));
+        System.out.print(list);
     }
 }
